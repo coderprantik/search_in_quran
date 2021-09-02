@@ -1,0 +1,11 @@
+{
+    "surahNumber": 1,
+    "numberInSurah": 2,
+    "text": "আয়াত",
+    "surahName": "surahName",
+    "englishNameTranslation": "englishNameTranslation",
+    "revelationType": "Meccan",
+    "sajda": false,
+    "type": "type",
+    "translatorName": "translatorName"
+}
