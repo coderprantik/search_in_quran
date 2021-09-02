@@ -3,25 +3,25 @@
     "status": "OK",
     "data": {
         "number": 1,
-        "text": "শুরু করছি আল্লাহর নামে যিনি পরম করুণাময়, অতি দয়ালু।",
+        "text": "আয়াত",
         "edition": {
-            "identifier": "bn.bengali",
-            "language": "bn",
-            "name": "মুহিউদ্দীন খান",
-            "englishName": "Muhiuddin Khan",
+            "identifier": "quran-simple",
+            "language": "ar",
+            "name": "name",
+            "englishName": "translatorName",
             "format": "text",
-            "type": "translation",
+            "type": "type",
             "direction": "ltr"
         },
         "surah": {
             "number": 1,
             "name": "سُورَةُ ٱلْفَاتِحَةِ",
-            "englishName": "Al-Faatiha",
-            "englishNameTranslation": "The Opening",
+            "englishName": "surahName",
+            "englishNameTranslation": "englishNameTranslation",
             "numberOfAyahs": 7,
-            "revelationType": "Meccan"
+            "revelationType": "revelationType"
         },
-        "numberInSurah": 1,
+        "numberInSurah": 2,
         "juz": 1,
         "manzil": 1,
         "page": 1,
