@@ -3,25 +3,25 @@
     "status": "OK",
     "data": {
         "number": 1,
-        "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "text": "اية",
         "edition": {
             "identifier": "quran-simple",
             "language": "ar",
             "name": "Simple",
             "englishName": "Simple",
             "format": "text",
-            "type": "quran",
+            "type": "type",
             "direction": "rtl"
         },
         "surah": {
             "number": 1,
             "name": "سُورَةُ ٱلْفَاتِحَةِ",
-            "englishName": "Al-Faatiha",
-            "englishNameTranslation": "The Opening",
+            "englishName": "surahName",
+            "englishNameTranslation": "englishNameTranslation",
             "numberOfAyahs": 7,
-            "revelationType": "Meccan"
+            "revelationType": "revelationType"
         },
-        "numberInSurah": 1,
+        "numberInSurah": 2,
         "juz": 1,
         "manzil": 1,
         "page": 1,
